@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-
 int smpl(int N, int* arr, int& k) {
 	int index = 0;
 	for (int i = 2; i <= N; i++) {
