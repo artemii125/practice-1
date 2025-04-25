@@ -1,6 +1,5 @@
 use std::io;
 use std::f64;
-
 fn smpl(n: u32) -> bool {
 	if n < 2 {
 		return false;
